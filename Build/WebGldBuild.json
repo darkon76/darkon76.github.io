@@ -1,0 +1,13 @@
+{
+"companyName": "Tortolitos",
+"productName": "Erosion",
+"dataUrl": "WebGldBuild.data.unityweb",
+"asmCodeUrl": "WebGldBuild.asm.code.unityweb",
+"asmMemoryUrl": "WebGldBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGldBuild.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
