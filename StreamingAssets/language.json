@@ -26,40 +26,11 @@
     "readyToPlay": "¿Estás listo para jugar?",
     "greatJob": "¡Gran trabajo!",
     "pressContinue": "Presione el botón 'siguiente' para continuar.",
-    "onePlusOne": "Uno + Uno = Dos"
+    "onePlusOne": "Uno + Uno = Dos",
 	"return": "Regresar",
 	"teacherPause": "Pause de maestro",
 	"mainMenu": "Menu principal"
 	
-  },
-  "zh": {
-    "welcome": "欢迎！",
-    "readyToPlay": "你准备好玩吗",
-    "greatJob": "做得好！",
-    "pressContinue": "按“下一步”按钮继续。",
-    "onePlusOne": "一+一=二"
-	"return": "Return",
-	"teacherPause": "Teacher Pause",
-	"mainMenu": "Main menu"
-  },
-  "jp": {
-    "welcome": "ようこそ!",
-    "readyToPlay": "あなたは遊ぶ準備ができていますか？",
-    "greatJob": "よくやった！",
-    "pressContinue": "続行するには '次へ'ボタンを押してください。",
-    "onePlusOne": "1 + 1 = 2"
-	"return": "Return",
-	"teacherPause": "Teacher Pause",
-	"mainMenu": "Main menu"
-  },
-  "ru": {
-    "welcome": "Добро пожаловать!",
-    "readyToPlay": "Вы готовы играть?",
-    "greatJob": "Отличная работа!",
-    "pressContinue": "Нажмите следующую кнопку, чтобы продолжить.",
-    "onePlusOne": "один + один"
-	"return": "Return",
-	"teacherPause": "Teacher Pause",
-	"mainMenu": "Main menu"
   }
+
 }
