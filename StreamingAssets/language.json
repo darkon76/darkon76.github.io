@@ -8,7 +8,16 @@
       "onePlusOne": 30,
 	  "return": 10,
 	  "teacherPause": 30,
-	  "mainMenu": 20
+	  "mainMenu": 20,
+	  "Title1": 100,
+	  "Title2": 100,
+	  "Title3": 100,
+	  "Title4": 100,
+	  "Title5": 100,
+	  "Title6": 100,
+	  "Title7": 100,
+	  "Title8": 100,
+	  
     }
   },
   "en": {
@@ -19,18 +28,14 @@
     "onePlusOne": "One + One = Two",
 	"return": "Return",
 	"teacherPause": "Teacher Pause",
-	"mainMenu": "Main menu"
-  },
-  "es": {
-    "welcome": "¡Bienvenido!",
-    "readyToPlay": "¿Estás listo para jugar?",
-    "greatJob": "¡Gran trabajo!",
-    "pressContinue": "Presione el botón 'siguiente' para continuar.",
-    "onePlusOne": "Uno + Uno = Dos",
-	"return": "Regresar",
-	"teacherPause": "Pause de maestro",
-	"mainMenu": "Menu principal"
-	
+	"mainMenu": "Main menu",
+	"Title1": "The elements move smaller particles",
+	"Title2": "Wheathering breaks down rocks into smaller particles",
+	"Title3": "Soil is formed with rocks, plants and animals.",
+	"Title4": "Weather conditions shape the landforms",
+	"Title5": "Rainfall affects the types of livings found in a region",
+	"Title6": "Living organisms shape the land",
+	"Title7": "The cicle of life",
+	"Title8": "Sand castle",
   }
-
 }
