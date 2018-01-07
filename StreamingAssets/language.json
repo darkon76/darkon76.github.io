@@ -10,6 +10,7 @@
 	  "restart": 10,
 	  "teacherPause": 30,
 	  "mainMenu": 20,
+	  "clearSave": 10,
 	  "Title1": 100,
 	  "Title2": 100,
 	  "Title3": 100,
@@ -34,7 +35,7 @@
 	  "ClearAll": 10,
 	  "Save":10,
 	  "Load":10,
-	  "Play":15,
+	  "Play":15
  
     }
   },
@@ -47,12 +48,13 @@
 	"return": "Return",
 	"restart": "Restart",
 	"teacherPause": "Teacher Pause",
-	"mainMenu": "Main menu",
+	"mainMenu": "To main menu",
+	"clearSave": "Clear save",
 	"Title1": "Weathering breaks down rocks into smaller particles.",
 	"Title2": "The elements move small particles around.",
 	"Title3": "Soils are formed by the weathering of rock and the decomposition of plant and animal remains.",
 	"Title4": "Weather conditions shape the landforms",
-	"Title5": "Rainfall affects the types of livings found in a region",
+	"Title5": "Rainfall affects the types of livings beings found in a region",
 	"Title6": "Living organisms shape the land, everything is connected.",
 	"Title7": "The circle of life.",
 	"Title8": "Sand castle",
@@ -72,6 +74,6 @@
 	"ClearAll": "Clear all",
 	"Save": "Save",
 	"Load": "Load",
-	"Play": "Play & Save",
+	"Play": "Play & Save"
   }
 }
