@@ -35,7 +35,9 @@
 	  "ClearAll": 10,
 	  "Save":10,
 	  "Load":10,
-	  "Play":15
+	  "Play":15,
+	  "Correct":100,
+	  "Incorrect":100
  
     }
   },
@@ -74,6 +76,8 @@
 	"ClearAll": "Clear all",
 	"Save": "Save",
 	"Load": "Load",
-	"Play": "Play & Save"
+	"Play": "Play & Save",
+	"Correct":"Correct",
+	"Incorrect":"Incorrect"
   }
 }
