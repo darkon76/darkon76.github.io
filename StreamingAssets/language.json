@@ -38,13 +38,41 @@
     "Tuto4": "Control",
 	"Tuto5": "Excellent! We finished the first order.",
 	
-    "GAME": "*****************************************************************************************",
-    "Signs1": "Conoces las leyes de signos en las operaciones? \n Funciona en multiplicaciones y divisiones!",
-    "Signs2": "Los numeros tienen un signo positivo + o negativo -, los signos positivos en ocasiones no son percibibles como:\n8 x 2 = 16",
-    "Signs3": "Todos los numeros de la fraccion son positivos aunque su signo no sea evidente.\n+8x+2=+16",
-    "Signs4": "El signo del resultado depende de el signo que tienen los numeros de la operacion.",
-	"Signs5": "Rule for dividing signed numbers: \npositive ÷ negative = negative\nnegative ÷ positive = negative\nnegative ÷ negative = positive\npositive ÷ positive = positive",
-	"Signs6": "Puedes consultarlo siempre que quieras en el boton de informacion!",
+    "Signs": "*****************************************************************************************",
+    "Signs1": "Do you know The rule for Dividing signed numbers?",
+    "Signs2": "Numbers have a positive sign (+) or negative (-), positive signs are not written.",
+    "Signs3": "The / sign is also expressed as ÷.",
+	"Signs4": "The sign of the quotient depends on the signs of the dividend and the divisor.",
+	"Signs5": "You can consult it whenever you want in the information button!",
+	
+	"Tutorial": "***********************",
+	"Tutorial1": "Help me find the ultimate drink!",
+	"Tutorial2": "This is the new recipe (-8 ÷ 4 =?), Fill the bottles with the right drink and help me discover its result!",
+	"Tutorial3": "According to the recipe (-8 ÷ 4 =?) The first soda must contain negative drink (-8), click on the magenta button until it is filled.",
+	"Tutorial4": "Well done!",
+	"Tutorial5": "The second bottle should be filled with a positive drink (+4), click on the yellow button.",
+	"Tutorial6": "Good job!",
+	"Tutorial7": "Now according to the laws of signs, the sign of the quotient must be ...",
+	"Tutorial8": "Negative ÷ Positive is ... NEGATIVE!",
+	"Tutorial9": "Fill the last bottle with negative drink.",
+	"Tutorial10": "Congratulations! The result was a negative relaxing drink!",
+	"SeparationTutorial": "*************************************************",
+
+	"EndScreen": "*******************************",
+	"EndScreen1": "The special drink of Dr. Pepperational Cola Drinkvide is ready!",
+	"EndScreen2": "Thanks to the divisions and The rule for Dividing signed numbers we were able to do it.",
+	"EndScreen3": "Congratulations!",
+	
+	"TutorialExtraGood": "Good job! The result is the dividend of our previous recipe!",
+	"TutorialExtraBad": "Let's review again The rule for Dividing signed numbers.",
+
+	"TutorialRecipes":"****************",
+	
+	"EXTRA": "***************************************************",
+	"MessageBoxSigns1": "8/2 = 4\nis equal to\n+8 / +2 = +4\n\n8/2 = 8 ÷ 2\n\nAll the numbers of the fraction are positive although their sign is not obvious. ",
+	"MessageBoxSigns2": "Rule for dividing signed numbers:\npositive ÷ negative = negative\nnegative ÷ positive = negative\nnegative ÷ negative = positive\npositive ÷ positive = positive",
+ 
+	
 
     "ExerciseTitle": "Exercise"
   }
