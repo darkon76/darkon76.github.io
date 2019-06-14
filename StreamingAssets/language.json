@@ -74,7 +74,8 @@
 	"MessageBoxSigns1": "8/2 = 4\nis equal to\n+8 / +2 = +4\n\n8/2 = 8 ÷ 2\n\nAll the numbers of the fraction are positive although their sign is not obvious. ",
 	"MessageBoxSigns2": "Rule for dividing signed numbers:\npositive ÷ negative = negative\nnegative ÷ positive = negative\nnegative ÷ negative = positive\npositive ÷ positive = positive",
  
-	
+	"GUI":"*************************",
+	"Validate":"Validate",
 
     "ExerciseTitle": "Exercise"
   }
