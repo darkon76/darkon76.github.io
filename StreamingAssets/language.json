@@ -56,7 +56,10 @@
 	"Tutorial8": "Negative ÷ Positive is      NEGATIVE!",
 	"Tutorial9": "Fill the last bottle with negative drink.",
 	"Tutorial10": "Congratulations! The result was a negative relaxing drink!",
-	"Tutorial11": "Control",
+	"Tutorial11": "To check The rule for Dividing signed numbers, we take the quotient of the previous division (-2) and multiply it by its divisor (4) and we will obtain the dividend together with its sign.",
+	"Tutorial12": "You can consult the rules whenever you want pressing the information button!\nFill the bottles according to the recipe",
+	"Tutorial13": "Good job! The result is the dividend of our previous recipe!",
+
 	
 	"SeparationTutorial": "*************************************************",
 
