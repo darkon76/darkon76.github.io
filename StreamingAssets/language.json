@@ -36,7 +36,8 @@
     "Tuto2": "Click on the machine once to fill a fraction, until it is the correct fraction.",
     "Tuto3": "Now click on the next one.",
     "Tuto4": "Control",
-	"Tuto5": "Excellent! We finished the first order.",
+	"Tuto5": " ",
+	"Tuto6": "Excellent! We finished the first order.",
 	
     "Signs": "*****************************************************************************************",
     "Signs1": "Do you know The rule for Dividing signed numbers?",
@@ -57,8 +58,17 @@
 	"Tutorial9": "Fill the last bottle with negative drink.",
 	"Tutorial10": "Congratulations! The result was a negative relaxing drink!",
 	"Tutorial11": "To check The rule for Dividing signed numbers, we take the quotient of the previous division (-2) and multiply it by its divisor (4) and we will obtain the dividend together with its sign.",
-	"Tutorial12": "You can consult the rules whenever you want pressing the information button!\nFill the bottles according to the recipe",
+	"Tutorial12": "Fill the first bottle with negative soda.\nFill the second bottle with positive soda.\nAccording to the laws of signs, select the correct soda.",
 	"Tutorial13": "Good job! The result is the dividend of our previous recipe!",
+	"Tutorial14": "Let's make the following recipe:",
+	"Tutorial15": "Good job!",
+	"Tutorial16": "To check the rule for Dividing signed numbers, the quotient will be multiplied by the divisor and we apply The rule for Dividing signed numbers to obtain its sign.",
+	"Tutorial17": "Well done! The dividend was +10",
+	"Tutorial18": "Now let's prepare the special drink!",
+	"Tutorial19": "Excellent!",
+	"Tutorial20": "The second part of the recipe is to multiply the quotient by the divisor.",
+	"Tutorial21": "Good job!",
+	
 
 	
 	"SeparationTutorial": "*************************************************",
