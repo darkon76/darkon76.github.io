@@ -18,43 +18,43 @@
 
     "HISTORY": "*********************************************************************************************",
     "History1": "Welcome to my high-tech soda factory.",
-    "History2": "Anyway, my name is Dr. Pepperational Cola Drinkvide. I'm about to discover a fascinating soda unique in the world that will make everyone happy.",
-    "History3": "But I have a problem, I don’t have an assistant that can help me create the definitive soda. wait!",
-	"History4": "YOU! You must help me, your face tells me that you understand the division of rational numbers. is not that so?",
-	"History5": "ah do not worry it's the simplest, I'll teach you.",
+    "History2": "Anyway, my name is Doctor Pepperational Cola Drinkvide. I'm about to discover a fascinating soda unique in the world that will make everyone happy.",
+    "History3": "But I have a problem, I don’t have an assistant that can help me to create the definitive soda. Wait!",
+	"History4": "YOU! You must help me, your face tells me that you understand the division of rational numbers. am I wrong?",
+	"History5": "Ah! don't worry it's very simple, I'll teach you.",
 
 	"INTRO":"**************************************************************************************************************",
 	"Intro1": "The integers can be divided, an integer is a complete unit, like a cake, a pencil, a soda.",
     "Intro2": "We are going to divide the soda into two",
-    "Intro3": "The soda is equal to 2 parts of 2, 2/2 is equal to 1.",
-	"Intro4": "If we take half, there will be ½.",
-	"Intro5": "Now we divide that soda for 4 people, in total 4 servings means 4/4, if we take 3 servings, it will be only ¼.",
-	"Intro6": "If you want to divide an integer to zero, it is not possible!",
+    "Intro3": "The soda is equal to 2 parts of 2, (2/2) 2 divided by 2 is equal to 1.",
+	"Intro4": "If we take a half, there will be another ½.",
+	"Intro5": "Now if we divide that soda for 4 people, we will have 4 servings in total, meaning 4/4, if we take 3 servings, it will be only ¼ left.",
+	"Intro6": "If you want to divide an integer by zero, it is not possible!",
 
     "TUTO": "*****************************************************************************************",
-    "Tuto1": "Now help me fill these sodas according to the division.",
+    "Tuto1": "Now help me to fill these sodas according to the division.",
     "Tuto2": "Click on the machine once to fill a fraction, until it is the correct fraction.",
     "Tuto3": "Now click on the next one.",
-    "Tuto4": "Control",
+    "Tuto4": "",
 	"Tuto5": " ",
 	"Tuto6": "Excellent! We finished the first order.",
 	
     "Signs": "*****************************************************************************************",
     "Signs1": "Do you know The rule for Dividing signed numbers?",
-    "Signs2": "Numbers have a positive sign (+) or negative (-), positive signs are not written.",
-    "Signs3": "The / sign is also expressed as ÷.",
+    "Signs2": "Numbers have a positive sign (+) or a negative sign(-), positive signs are not written.",
+    "Signs3": "The division sign(/) is also expressed as divided by (÷).",
 	"Signs4": "The sign of the quotient depends on the signs of the dividend and the divisor.",
 	"Signs5": "You can consult it whenever you want in the information button!",
 	
 	"Tutorial": "***********************",
-	"Tutorial1": "Help me find the ultimate drink!",
-	"Tutorial2": "This is the new recipe (-8 / 4 =?), Fill the bottles with the right drink and help me discover its result!",
-	"Tutorial3": "According to the recipe (-8 / 4 =?) The first soda must contain negative drink (-8), click on the magenta button until it is filled.",
+	"Tutorial1": "Help me to find the ultimate drink!",
+	"Tutorial2": "This is the new recipe (-8 divided by 4 =?), Fill the bottles with the right drink and help me to discover the result!",
+	"Tutorial3": "According to the recipe (-8 divided by 4 =?) The first soda must contain negative drink (-8), click on the magenta button until it is filled.",
 	"Tutorial4": "Well done!",
 	"Tutorial5": "The second bottle should be filled with a positive drink (+4), click on the yellow button.",
 	"Tutorial6": "Good job!",
 	"Tutorial7": "Now according to the laws of signs, the sign of the quotient must be.",
-	"Tutorial8": "Negative ÷ Positive is      NEGATIVE!",
+	"Tutorial8": "Negative divided by Positive is      NEGATIVE!",
 	"Tutorial9": "Fill the last bottle with negative drink.",
 	"Tutorial10": "Congratulations! The result was a negative relaxing drink!",
 	"Tutorial11": "To check The rule for Dividing signed numbers, we take the quotient of the previous division (-2) and multiply it by its divisor (4) and we will obtain the dividend together with its sign.",
@@ -67,9 +67,7 @@
 	"Tutorial18": "Now let's prepare the special drink!",
 	"Tutorial19": "Excellent!",
 	"Tutorial20": "The second part of the recipe is to multiply the quotient by the divisor.",
-	"Tutorial21": "Good job!",
-	
-
+	"Tutorial21": "Did you know that the division can be expressed in another way? \nAs we already reviewed in the first recipe: \n15/-3=-5 and we review that -5x-3=15 \nIf we join these two recipes is as follows 15/-3x-5=15 \nThis is another way of expressing the division!",
 	
 	"SeparationTutorial": "*************************************************",
 
@@ -89,7 +87,9 @@
  
 	"GUI":"*************************",
 	"Validate":"Validate",
-
+	"Config":"************************",
+	"DialogSkipWait":"4.0",
+	
     "ExerciseTitle": "Exercise"
   }
 }
